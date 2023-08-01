@@ -1,4 +1,26 @@
 body{
-   background-color: rgb(185, 245, 245);
+   background-color: rgba(185, 245, 245, 0.589);
 }
-img{width: 700px;}
+img{width: 700px;
+text-align: center;
+}
+header{
+   /* cor de fundo */
+   background-color: rgb(111, 194, 194);
+   /* cor do texto */
+    color: #050505;
+    /* alinhamento do texto */
+    text-align: center;
+    /* preenchimento */
+    padding: 15px;
+}
+footer{
+    /* cor de fundo */
+   background-color: rgb(111, 194, 194);
+   /* cor do texto */
+    color: #050505;
+    /* alinhamento do texto */
+    text-align: center;
+    /* preenchimento */
+    padding: 15px;
+}
